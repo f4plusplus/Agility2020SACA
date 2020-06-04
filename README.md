@@ -2,7 +2,7 @@
 PC211 Secure Azure computing Architecture
 *****************************************
 
-`Python <http://www.python.org/>`_
+'Python <http://www.python.org/>'_
 
 
 
