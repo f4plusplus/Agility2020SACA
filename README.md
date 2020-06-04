@@ -2,7 +2,7 @@
 PC211 Secure Azure computing Architecture
 *****************************************
 
-`Link text <https://domain.invalid/>`
+`Link text <https://domain.invalid/>`_
 
 
 
